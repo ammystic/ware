@@ -2,7 +2,7 @@ local KeySystemUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/M
 KeySystemUI.New({
     ApplicationName = "Shardware", -- Your Key System Application Name
     Name = "Shardware", -- Your Script name
-    Info = "Get Key For Shardware", -- Info text in the GUI, keep empty for default text.
+    Info = "ShardWare Key System", -- Info text in the GUI, keep empty for default text.
     DiscordInvite = "https://discord.gg/H9jTsvcwXu", -- Optional.
     AuthType = "clientid" -- Can select verifycation with ClientId or IP ("clientid" or "ip")
 })
